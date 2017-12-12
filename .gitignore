@@ -1,0 +1,5 @@
+/web/bower_components/*
+/build/*
+/nbproject/*
+/test/*
+/dist/*
